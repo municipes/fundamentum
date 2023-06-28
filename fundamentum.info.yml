@@ -1,0 +1,39 @@
+name: "Fundāmentum"
+description: "Fundāmentum è un modulo drupal che gestisce i field storage dell'entity Node necessari all'implementazione dell'architettura dei contenuti dei comuni."
+package: "Municipes"
+
+type: module
+core_version_requirement: ^10
+dependencies:
+  - drupal:datetime
+  - drupal:field
+  - drupal:file
+  - drupal:image
+  - drupal:link
+  - drupal:media
+  - drupal:media_library
+  - drupal:node
+  - drupal:options
+  - drupal:taxonomy
+  - drupal:telephone
+  - drupal:text
+  - drupal:views
+  - viewsreference:viewsreference
+  - address:address
+  - entity_reference_revisions:entity_reference_revisions
+  - geofield:geofield
+  - paragraphs:paragraphs
+  - municipes:lexicum
+  - bootstrap_italia:bootstrap_italia_image_style
+  - bootstrap_italia:bootstrap_italia_paragraph
+  - bootstrap_italia:bootstrap_italia_paragraph_accordion
+  - bootstrap_italia:bootstrap_italia_paragraph_attachments
+  - bootstrap_italia:bootstrap_italia_paragraph_callout
+  - bootstrap_italia:bootstrap_italia_paragraph_carousel
+  - bootstrap_italia:bootstrap_italia_paragraph_citation
+  - bootstrap_italia:bootstrap_italia_paragraph_gallery
+  - bootstrap_italia:bootstrap_italia_paragraph_hero
+  - bootstrap_italia:bootstrap_italia_paragraph_map
+  - bootstrap_italia:bootstrap_italia_paragraph_node_reference
+  - bootstrap_italia:bootstrap_italia_paragraph_section
+  - bootstrap_italia:bootstrap_italia_paragraph_timeline
