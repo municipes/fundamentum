@@ -22,6 +22,7 @@ dependencies:
   - address:address
   - entity_reference_revisions:entity_reference_revisions
   - geofield:geofield
+  - geocoder:geocoder_address
   - paragraphs:paragraphs
   - municipes:lexicum
   - bootstrap_italia:bootstrap_italia_image_style
