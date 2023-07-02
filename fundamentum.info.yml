@@ -18,12 +18,15 @@ dependencies:
   - drupal:telephone
   - drupal:text
   - drupal:views
+  - drupal:bi_toc
   - viewsreference:viewsreference
   - address:address
   - entity_reference_revisions:entity_reference_revisions
   - geofield:geofield
   - geocoder:geocoder_address
   - paragraphs:paragraphs
+  - ui_patterns_settings:ui_patterns_settings
+  - ui_patterns:ui_patterns_library
   - municipes:lexicum
   - bootstrap_italia:bootstrap_italia_image_style
   - bootstrap_italia:bootstrap_italia_paragraph
