@@ -4,8 +4,8 @@ dependencies:
   module:
     - node
     - text
-id: node.field_sponsor
-field_name: field_sponsor
+id: node.field_patrocinio
+field_name: field_patrocinio
 entity_type: node
 type: text_long
 settings: {  }
