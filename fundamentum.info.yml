@@ -23,7 +23,6 @@ dependencies:
   - address:address
   - entity_reference_revisions:entity_reference_revisions
   - geofield:geofield
-  - geocoder:geocoder_address
   - paragraphs:paragraphs
   - ui_patterns_settings:ui_patterns_settings
   - ui_patterns:ui_patterns_library
